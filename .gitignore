@@ -35,9 +35,13 @@
 *.out
 *.app
 
-# End of https://www.toptal.com/developers/gitignore/api/c++
+.DS_Store
 
-Sign in to access your highlights
-Login / Signup
-weava logo
-Drop here!
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
