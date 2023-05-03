@@ -8,6 +8,7 @@
     "*.scss.liquid": "liquid-scss",
     "*.css": "tailwindcss",
     "ostream": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "iostream": "cpp"
   }
 }
